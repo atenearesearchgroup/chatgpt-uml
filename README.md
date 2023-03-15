@@ -2,7 +2,7 @@
 
 Large Language Models (LLMs), such as Copilot or ChatGPT, are expected to revolutionize the way in which software is developed nowadays. Many efforts are currently devoted to analyzing the potential advantages and limitations of these generative AI models for writing code. Most studies seem to agree that LLMs do an excellent job in code development: despite some minor syntactical errors, what they produce is essentially correct. However, the analysis of the current state of LLMs with respect to software modeling has received less attention.
 
-We have recently started working on investigating the current capabilities and limitations of ChatGPT for performing modeling tasks and assisting software modelers, in particular in generating UML class diagrams. Our findings show that, in contrast to code generation, the performance of the current version of ChatGPT for software modeling is very limited, with several syntactic and semantic shortcomings, lack of consistency in responses, and scalability issues.
+We have recently started working on investigating the current capabilities and limitations of ChatGPT for performing modeling tasks and assisting software modelers, in particular in generating UML class diagrams. 
 
 This repository contains all artifacts (such as intent models, prompts, resulting models and logbooks) used for conducting our experiments, as well as their results. It is aimed as serving as companion webpage for a paper in preparation:
 
@@ -11,6 +11,10 @@ This repository contains all artifacts (such as intent models, prompts, resultin
 ## Structure
 
 The contents of this repository as organized as follows:
+
+* Intent models
+* Larger examples
+* Logbooks
 
 ---
 
