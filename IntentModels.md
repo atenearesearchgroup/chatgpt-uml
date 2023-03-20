@@ -223,7 +223,7 @@ constraints
  
 ## Employees
 <p align="center">
-<img src="images/LB10.png"  width="40%">
+<img src="images/LB10.png"  width="50%">
 </p>
 
  
@@ -231,7 +231,7 @@ constraints
 ## SimpleFolder
 
 <p align="center">
-<img src="images/JC1.png"  width="10%">
+<img src="images/JC1.png"  width="20%">
 </p>
 
  
@@ -257,7 +257,7 @@ constraints
  
 ## Robot1
 <p align="center">
-<img src="images/JC5.png"  width="25%">
+<img src="images/JC5.png"  width="30%">
 </p>
 
  
@@ -339,13 +339,13 @@ constraints
  
 ## Theather4
 <p align="center">
-<img src="images/JT8.png"  width="70%">
+<img src="images/JT8.png"  width="60%">
 </p>
 
  
 ## Airport1
 <p align="center">
-<img src="images/JT9.png"  width="10%">
+<img src="images/JT9.png"  width="30%">
 </p>
 
  
