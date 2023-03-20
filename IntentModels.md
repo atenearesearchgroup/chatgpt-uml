@@ -62,7 +62,7 @@ context Match inv GoalsOK:
 ## Loans - Association Class
 
 <p align="center">
-<img src="images/Loans-AC-CD.png"  width="60%">
+<img src="images/Loans-AC-CD.png"  width="40%">
 </p>
 
 
@@ -81,7 +81,7 @@ context Customer inv DifferentYears:
 ## Loans - Class
 
 <p align="center">
-<img src="images/Loans-CD.png"  width="60%">
+<img src="images/Loans-CD.png"  width="80%">
 </p>
 
 
@@ -107,7 +107,7 @@ context Customer inv DifferentYears:
 ## Books and copies
 
 <p align="center">
-<img src="images/Books-CD.png"  width="50%">
+<img src="images/Books-CD.png"  width="40%">
 </p>
 
 
@@ -116,7 +116,7 @@ context Customer inv DifferentYears:
 ## Snarks
 
 <p align="center">
-<img src="images/Snark-CD.png width="60%">
+<img src="images/Snark-CD.png" width="60%">
 </p>
 
 ## Car
