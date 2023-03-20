@@ -194,13 +194,13 @@ constraints
 
 ## Airlines-AC
 <p align="center">
-<img src="images/LB5.png"  width="60%">
+<img src="images/LB5.png"  width="45%">
 </p>
 
 
 ## Airlines
 <p align="center">
-<img src="images/LB6.png"  width="40%">
+<img src="images/LB6.png"  width="35%">
 </p>
 
 
@@ -269,7 +269,7 @@ constraints
  
 ## Robot3
 <p align="center">
-<img src="images/JC7.png"  width="70%">
+<img src="images/JC7.png"  width="80%">
 </p>
 
  
@@ -281,7 +281,7 @@ constraints
  
 ## Purchase Orders2
 <p align="center">
-<img src="images/JC9.png"  width="80%">
+<img src="images/JC9.png"  width="100%">
 </p>
 
  
