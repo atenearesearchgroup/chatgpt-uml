@@ -13,7 +13,7 @@ This repository contains all artifacts (such as intent models, prompts, resultin
 The contents of this repository as organized as follows:
 
 * [Intent models](https://github.com/atenearesearchgroup/chatgpt-uml/blob/main/IntentModels.md), used as targets to check whether ChatGPT can generate them or not, and how.  
-* Logbooks, recording the conversations we had with ChatGPT in order to generate the intent models.
+* [Logbooks](https://github.com/atenearesearchgroup/chatgpt-uml/tree/main/Logbooks), recording the conversations we had with ChatGPT in order to generate the intent models.
 * Larger examples, to challenge ChatGPT and its future versions. 
 * [Images](https://github.com/atenearesearchgroup/chatgpt-uml/tree/main/images) of all models.
 
