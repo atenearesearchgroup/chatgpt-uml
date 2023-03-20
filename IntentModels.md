@@ -103,7 +103,7 @@ context Customer inv DifferentYears:
     self.loan->forAll(l1,l2|l1<>l2 implies l1.startingYear<>l2.startingYear)
 ```
 
-* **Tags**: Classes, Attributes, Operations, Associations reified asclasses, OCL constraints. 
+* **Tags**: Classes, Attributes, Operations, Associations reified as classes, OCL constraints. 
 
 
 ## School
