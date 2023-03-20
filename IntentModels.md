@@ -116,7 +116,7 @@ context Customer inv DifferentYears:
 ## Snarks
 
 <p align="center">
-<img src="images/Snark-CD.png" width="60%">
+<img src="images/Snark-CD.png" width="50%">
 </p>
 
 ## Car
@@ -188,7 +188,7 @@ constraints
 
 ## Courses
 <p align="center">
-<img src="images/LB4.png"  width="60%">
+<img src="images/LB4.png"  width="40%">
 </p>
 
 
@@ -204,9 +204,9 @@ constraints
 </p>
 
 
-## Theather0
+## Theather
 <p align="center">
-<img src="images/LB7.png"  width="60%">
+<img src="images/LB7.png"  width="50%">
 </p>
 
 ## Events
@@ -217,7 +217,7 @@ constraints
  
 ## Bathroom
 <p align="center">
-<img src="images/LB9.png"  width="60%">
+<img src="images/LB9.png"  width="70%">
 </p>
 
  
@@ -257,19 +257,19 @@ constraints
  
 ## Robot1
 <p align="center">
-<img src="images/JC5.png"  width="40%">
+<img src="images/JC5.png"  width="35%">
 </p>
 
  
 ## robot2
 <p align="center">
-<img src="images/JC6.png"  width="60%">
+<img src="images/JC6.png"  width="70%">
 </p>
 
  
 ## Robot3
 <p align="center">
-<img src="images/JC7.png"  width="60%">
+<img src="images/JC7.png"  width="70%">
 </p>
 
  
@@ -302,20 +302,20 @@ constraints
 
 ## VideoStore2
 <p align="center">
-<img src="images/JT2.png"  width="50%">
+<img src="images/JT2.png"  width="40%">
 </p>
 
  
 
 ## VideoStore3
 <p align="center">
-<img src="images/JT3.png"  width="50%">
+<img src="images/JT3.png"  width="40%">
 </p>
 
  
 ## VideoStore4
 <p align="center">
-<img src="images/JT4.png"  width="50%">
+<img src="images/JT4.png"  width="40%">
 </p>
 
  
@@ -339,7 +339,7 @@ constraints
  
 ## Theather4
 <p align="center">
-<img src="images/JT8.png"  width="60%">
+<img src="images/JT8.png"  width="70%">
 </p>
 
  
