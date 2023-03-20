@@ -8,10 +8,10 @@ The models are given by an image, and at most with some constraints written in O
 
 ## Amphibious
 
-<!--- ![amphibious]( images/Amphibious-CD.png "Amphibious") -->
+<!--- ![amphibious](images/Amphibious-CD.png "Amphibious") -->
 
 <p align="center">
-<img src=" images/Amphibious-CD.png"  width="60%">
+<img src="images/Amphibious-CD.png"  width="60%">
 </p>
 
 ```
@@ -36,7 +36,7 @@ end
 
 
 <p align="center">
-<img src=" images/Matches-CD.png"  width="60%">
+<img src="images/Matches-CD.png"  width="60%">
 </p>
 
 
@@ -62,7 +62,7 @@ context Match inv GoalsOK:
 ## Loans - Association Class
 
 <p align="center">
-<img src=" images/Loans-AC-CD.png"  width="60%">
+<img src="images/Loans-AC-CD.png"  width="60%">
 </p>
 
 
@@ -81,7 +81,7 @@ context Customer inv DifferentYears:
 ## Loans - Class
 
 <p align="center">
-<img src=" images/Loans-CD.png"  width="60%">
+<img src="images/Loans-CD.png"  width="60%">
 </p>
 
 
@@ -100,14 +100,14 @@ context Customer inv DifferentYears:
 ## School
 
 <p align="center">
-<img src=" images/School-CD.png"  width="60%">
+<img src="images/School-CD.png"  width="60%">
 </p>
 
 
 ## Books and copies
 
 <p align="center">
-<img src=" images/Books-CD.png"  width="50%">
+<img src="images/Books-CD.png"  width="50%">
 </p>
 
 
@@ -116,13 +116,13 @@ context Customer inv DifferentYears:
 ## Snarks
 
 <p align="center">
-<img src=" images/Snark-CD.png width="60%">
+<img src="images/Snark-CD.png width="60%">
 </p>
 
 ## Car
 
 <p align="center">
-<img src=" images/Car-CD.png"  width="80%">
+<img src="images/Car-CD.png"  width="80%">
 </p>
 
 
@@ -143,7 +143,7 @@ constraints
 ## PurchaseOrders
 
 <p align="center">
-<img src=" images/PO-CD.png"  width="60%">
+<img src="images/PO-CD.png"  width="60%">
 </p>
 
 ```
@@ -156,7 +156,7 @@ context Unit inv InStockOrWithCustomer:
 ## Banks
 
 <p align="center">
-<img src=" images/Banks-CD.png"  width="60%">
+<img src="images/Banks-CD.png"  width="60%">
 </p>
 
 
@@ -170,60 +170,60 @@ constraints
 ## Furniture
 
 <p align="center">
-<img src=" images/LB1.png"  width="40%">
+<img src="images/LB1.png"  width="40%">
 </p>
 
 
 ## ScubaGear
 <p align="center">
-<img src=" images/LB2.png"  width="60%">
+<img src="images/LB2.png"  width="60%">
 </p>
 
 
 ## TennisMatch
 <p align="center">
-<img src=" images/LB3.png"  width="20%">
+<img src="images/LB3.png"  width="20%">
 </p>
 
 
 ## Courses
 <p align="center">
-<img src=" images/LB4.png"  width="60%">
+<img src="images/LB4.png"  width="60%">
 </p>
 
 
 ## Airlines-AC
 <p align="center">
-<img src=" images/LB5.png"  width="60%">
+<img src="images/LB5.png"  width="60%">
 </p>
 
 
 ## Airlines
 <p align="center">
-<img src=" images/LB6.png"  width="40%">
+<img src="images/LB6.png"  width="40%">
 </p>
 
 
 ## Theather0
 <p align="center">
-<img src=" images/LB7.png"  width="60%">
+<img src="images/LB7.png"  width="60%">
 </p>
 
 ## Events
 <p align="center">
-<img src=" images/LB8.png"  width="50%">
+<img src="images/LB8.png"  width="50%">
 </p>
 
  
 ## Bathroom
 <p align="center">
-<img src=" images/LB9.png"  width="60%">
+<img src="images/LB9.png"  width="60%">
 </p>
 
  
 ## Employees
 <p align="center">
-<img src=" images/LB10.png"  width="60%">
+<img src="images/LB10.png"  width="60%">
 </p>
 
  
@@ -231,63 +231,63 @@ constraints
 ## SimpleFolder
 
 <p align="center">
-<img src=" images/JC1.png"  width="20%">
+<img src="images/JC1.png"  width="20%">
 </p>
 
  
 
 ## FileSystem1
 <p align="center">
-<img src=" images/JC2.png"  width="40%">
+<img src="images/JC2.png"  width="40%">
 </p>
 
  
 
 ## FileSystem2
 <p align="center">
-<img src=" images/JC3.png"  width="50%">
+<img src="images/JC3.png"  width="50%">
 </p>
 
  
 ## Git
 <p align="center">
-<img src=" images/JC4.png"  width="60%">
+<img src="images/JC4.png"  width="60%">
 </p>
 
  
 ## Robot1
 <p align="center">
-<img src=" images/JC5.png"  width="40%">
+<img src="images/JC5.png"  width="40%">
 </p>
 
  
 ## robot2
 <p align="center">
-<img src=" images/JC6.png"  width="60%">
+<img src="images/JC6.png"  width="60%">
 </p>
 
  
 ## Robot3
 <p align="center">
-<img src=" images/JC7.png"  width="60%">
+<img src="images/JC7.png"  width="60%">
 </p>
 
  
 ## Online Cart
 <p align="center">
-<img src=" images/JC8.png"  width="60%">
+<img src="images/JC8.png"  width="60%">
 </p>
 
  
 ## Purchase Orders2
 <p align="center">
-<img src=" images/JC9.png"  width="80%">
+<img src="images/JC9.png"  width="80%">
 </p>
 
  
 ## Aircraft
 <p align="center">
-<img src=" images/JC10.png"  width="60%">
+<img src="images/JC10.png"  width="60%">
 </p>
 
  
@@ -295,63 +295,63 @@ constraints
 ## VideoStore1
 
 <p align="center">
-<img src=" images/JT1.png"  width="20%">
+<img src="images/JT1.png"  width="20%">
 </p>
 
  
 
 ## VideoStore2
 <p align="center">
-<img src=" images/JT2.png"  width="50%">
+<img src="images/JT2.png"  width="50%">
 </p>
 
  
 
 ## VideoStore3
 <p align="center">
-<img src=" images/JT3.png"  width="50%">
+<img src="images/JT3.png"  width="50%">
 </p>
 
  
 ## VideoStore4
 <p align="center">
-<img src=" images/JT4.png"  width="50%">
+<img src="images/JT4.png"  width="50%">
 </p>
 
  
 ## Theather1
 <p align="center">
-<img src=" images/JT5.png"  width="40%">
+<img src="images/JT5.png"  width="40%">
 </p>
 
  
 ## Theather2
 <p align="center">
-<img src=" images/JT6.png"  width="60%">
+<img src="images/JT6.png"  width="60%">
 </p>
 
  
 ## Theather3
 <p align="center">
-<img src=" images/JT7.png"  width="60%">
+<img src="images/JT7.png"  width="60%">
 </p>
 
  
 ## Theather4
 <p align="center">
-<img src=" images/JT8.png"  width="60%">
+<img src="images/JT8.png"  width="60%">
 </p>
 
  
 ## Airport1
 <p align="center">
-<img src=" images/JT9.png"  width="20%">
+<img src="images/JT9.png"  width="20%">
 </p>
 
  
 ## Airport2
 <p align="center">
-<img src=" images/JT10.png"  width="50%">
+<img src="images/JT10.png"  width="50%">
 </p>
 
  
