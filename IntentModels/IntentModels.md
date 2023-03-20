@@ -107,7 +107,7 @@ context Customer inv DifferentYears:
 ## Books and copies
 
 <p align="center">
-<img src="../images/Books-CD.png"  width="60%">
+<img src="../images/Books-CD.png"  width="50%">
 </p>
 
 
@@ -122,7 +122,7 @@ context Customer inv DifferentYears:
 ## Car
 
 <p align="center">
-<img src="../images/Car-CD.png"  width="60%">
+<img src="../images/Car-CD.png"  width="80%">
 </p>
 
 
@@ -182,7 +182,7 @@ constraints
 
 ## TennisMatch
 <p align="center">
-<img src="../images/LB3.png"  width="30%">
+<img src="../images/LB3.png"  width="20%">
 </p>
 
 
@@ -204,14 +204,14 @@ constraints
 </p>
 
 
-## Theathers
+## Theather0
 <p align="center">
 <img src="../images/LB7.png"  width="60%">
 </p>
 
 ## Events
 <p align="center">
-<img src="../images/LB8.png"  width="60%">
+<img src="../images/LB8.png"  width="50%">
 </p>
 
  
@@ -231,7 +231,7 @@ constraints
 ## SimpleFolder
 
 <p align="center">
-<img src="../images/JC1.png"  width="30%">
+<img src="../images/JC1.png"  width="20%">
 </p>
 
  
@@ -295,7 +295,7 @@ constraints
 ## VideoStore1
 
 <p align="center">
-<img src="../images/JT1.png"  width="50%">
+<img src="../images/JT1.png"  width="20%">
 </p>
 
  
@@ -345,7 +345,7 @@ constraints
  
 ## Airport1
 <p align="center">
-<img src="../images/JT9.png"  width="40%">
+<img src="../images/JT9.png"  width="20%">
 </p>
 
  
