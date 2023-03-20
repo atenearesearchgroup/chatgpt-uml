@@ -149,7 +149,7 @@ constraints
     self.wheel->collect(diameter)->asSet()->size()=1
 ```
 
-**Tags**: Enumerations, Classes, Attributes, Operations, Generalization, Association, Aggregation, Composition, Association Class, Multiple inheritance, Abstract classes, OCL constraints, Roles (as assoc. ends), Roles (as inherited classes), [Roles (as entity types)](https://link.springer.com/chapter/10.1007/978-3-540-30464-7_7), and [Materialization](http://www.vldb.org/conf/1994/P630.PDF). 
+**Tags**: Classes, Attributes, Association, Composition, OCL constraints, [Roles (as entity types)](https://link.springer.com/chapter/10.1007/978-3-540-30464-7_7), and [Materialization](http://www.vldb.org/conf/1994/P630.PDF). 
 
 ## PurchaseOrders
 
@@ -163,7 +163,7 @@ context Unit inv InStockOrWithCustomer:
    self.company->size() + self.order->size() = 1
 ```
 
-**Tags**: Enumerations, Classes, Attributes, Operations, Generalization, Association, Aggregation, Composition, Association Class, Multiple inheritance, Abstract classes, OCL constraints, Roles (as assoc. ends), Roles (as inherited classes), [Roles (as entity types)](https://link.springer.com/chapter/10.1007/978-3-540-30464-7_7), and [Materialization](http://www.vldb.org/conf/1994/P630.PDF). 
+**Tags**: Classes, Attributes, Association, Aggregation, OCL constraints, Roles (as assoc. ends). 
 
 ## Banks
 
@@ -179,7 +179,7 @@ constraints
     	   self.client.branch->excludes(self.manager.branch)
 ```
 
-**Tags**: Enumerations, Classes, Attributes, Operations, Generalization, Association, Aggregation, Composition, Association Class, Multiple inheritance, Abstract classes, OCL constraints, Roles (as assoc. ends), Roles (as inherited classes), [Roles (as entity types)](https://link.springer.com/chapter/10.1007/978-3-540-30464-7_7), and [Materialization](http://www.vldb.org/conf/1994/P630.PDF). 
+**Tags**: Enumerations, Classes, Attributes, Association, Composition, OCL constraints, [Roles (as entity types)](https://link.springer.com/chapter/10.1007/978-3-540-30464-7_7). 
 
 ## Furniture
 
@@ -188,7 +188,7 @@ constraints
 </p>
 
 
-**Tags**: Enumerations, Classes, Attributes, Operations, Generalization, Association, Aggregation, Composition, Association Class, Multiple inheritance, Abstract classes, OCL constraints, Roles (as assoc. ends), Roles (as inherited classes), [Roles (as entity types)](https://link.springer.com/chapter/10.1007/978-3-540-30464-7_7), and [Materialization](http://www.vldb.org/conf/1994/P630.PDF). 
+**Tags**: Enumerations, Classes, Attributes, Generalization. 
 
 ## ScubaGear
 <p align="center">
@@ -196,7 +196,7 @@ constraints
 </p>
 
 
-**Tags**: Enumerations, Classes, Attributes, Operations, Generalization, Association, Aggregation, Composition, Association Class, Multiple inheritance, Abstract classes, OCL constraints, Roles (as assoc. ends), Roles (as inherited classes), [Roles (as entity types)](https://link.springer.com/chapter/10.1007/978-3-540-30464-7_7), and [Materialization](http://www.vldb.org/conf/1994/P630.PDF). 
+**Tags**: Classes, Attributes, Operations, Composition. 
 
 ## TennisMatch
 <p align="center">
@@ -204,9 +204,7 @@ constraints
 </p>
 
 
-**Tags**: Enumerations, Classes, Attributes, Operations, Generalization, Association, Aggregation, Composition, Association Class, Multiple inheritance, Abstract classes, OCL constraints, Roles (as assoc. ends), Roles (as inherited classes), [Roles (as entity types)](https://link.springer.com/chapter/10.1007/978-3-540-30464-7_7), and [Materialization](http://www.vldb.org/conf/1994/P630.PDF). 
-
-**Tags**: Enumerations, Classes, Attributes, Operations, Generalization, Association, Aggregation, Composition, Association Class, Multiple inheritance, Abstract classes, OCL constraints, Roles (as assoc. ends), Roles (as inherited classes), [Roles (as entity types)](https://link.springer.com/chapter/10.1007/978-3-540-30464-7_7), and [Materialization](http://www.vldb.org/conf/1994/P630.PDF). 
+**Tags**: Classes, Attributes, Operations. 
 
 ## Courses
 <p align="center">
@@ -214,7 +212,7 @@ constraints
 </p>
 
 
-**Tags**: Enumerations, Classes, Attributes, Operations, Generalization, Association, Aggregation, Composition, Association Class, Multiple inheritance, Abstract classes, OCL constraints, Roles (as assoc. ends), Roles (as inherited classes), [Roles (as entity types)](https://link.springer.com/chapter/10.1007/978-3-540-30464-7_7), and [Materialization](http://www.vldb.org/conf/1994/P630.PDF). 
+**Tags**: Classes, Attributes, Association, Aggregation. 
 
 ## Airlines-AC
 <p align="center">
@@ -222,7 +220,7 @@ constraints
 </p>
 
 
-**Tags**: Enumerations, Classes, Attributes, Operations, Generalization, Association, Aggregation, Composition, Association Class, Multiple inheritance, Abstract classes, OCL constraints, Roles (as assoc. ends), Roles (as inherited classes), [Roles (as entity types)](https://link.springer.com/chapter/10.1007/978-3-540-30464-7_7), and [Materialization](http://www.vldb.org/conf/1994/P630.PDF). 
+**Tags**: Classes, Attributes, Operations, Association Class. 
 
 ## Airlines
 <p align="center">
@@ -237,7 +235,7 @@ constraints
 <img src="images/LB7.png"  width="50%">
 </p>
 
-**Tags**: Enumerations, Classes, Attributes, Operations, Generalization, Association, Aggregation, Composition, Association Class, Multiple inheritance, Abstract classes, OCL constraints, Roles (as assoc. ends), Roles (as inherited classes), [Roles (as entity types)](https://link.springer.com/chapter/10.1007/978-3-540-30464-7_7), and [Materialization](http://www.vldb.org/conf/1994/P630.PDF). Association reified as a Class,
+**Tags**: Classes, Attributes, Association, Composition, [Materialization](http://www.vldb.org/conf/1994/P630.PDF).
 
 ## Events
 <p align="center">
@@ -245,7 +243,7 @@ constraints
 </p>
 
  
-**Tags**: Enumerations, Classes, Attributes, Operations, Generalization, Association, Aggregation, Composition, Association Class, Multiple inheritance, Abstract classes, OCL constraints, Roles (as assoc. ends), Roles (as inherited classes), [Roles (as entity types)](https://link.springer.com/chapter/10.1007/978-3-540-30464-7_7), and [Materialization](http://www.vldb.org/conf/1994/P630.PDF). Association reified as a Class,
+**Tags**: Enumerations, Classes, Attributes, Generalization, Association, Aggregation, Roles (as assoc. ends).
 
 ## Bathroom
 <p align="center">
@@ -253,7 +251,7 @@ constraints
 </p>
 
  
-**Tags**: Enumerations, Classes, Attributes, Operations, Generalization, Association, Aggregation, Composition, Association Class, Multiple inheritance, Abstract classes, OCL constraints, Roles (as assoc. ends), Roles (as inherited classes), [Roles (as entity types)](https://link.springer.com/chapter/10.1007/978-3-540-30464-7_7), and [Materialization](http://www.vldb.org/conf/1994/P630.PDF). Association reified as a Class,
+**Tags**: Classes, Composition.
 
 ## Employees
 <p align="center">
@@ -262,7 +260,7 @@ constraints
 
  
 
-**Tags**: Enumerations, Classes, Attributes, Operations, Generalization, Association, Aggregation, Composition, Association Class, Multiple inheritance, Abstract classes, OCL constraints, Roles (as assoc. ends), Roles (as inherited classes), [Roles (as entity types)](https://link.springer.com/chapter/10.1007/978-3-540-30464-7_7), and [Materialization](http://www.vldb.org/conf/1994/P630.PDF). Association reified as a Class,
+**Tags**: Classes, Attributes, Association Class.
 
 ## SimpleFolder
 
@@ -270,7 +268,7 @@ constraints
 <img src="images/JC1.png"  width="15%">
 </p>
 
-**Tags**: Enumerations, Classes, Attributes, Operations, Generalization, Association, Aggregation, Composition, Association Class, Multiple inheritance, Abstract classes, OCL constraints, Roles (as assoc. ends), Roles (as inherited classes), [Roles (as entity types)](https://link.springer.com/chapter/10.1007/978-3-540-30464-7_7), and [Materialization](http://www.vldb.org/conf/1994/P630.PDF). Association reified as a Class,
+**Tags**: Classes, Attributes, Association.
 
 
 ## FileSystem1
@@ -278,7 +276,7 @@ constraints
 <img src="images/JC2.png"  width="30%">
 </p>
 
-**Tags**: Enumerations, Classes, Attributes, Operations, Generalization, Association, Aggregation, Composition, Association Class, Multiple inheritance, Abstract classes, OCL constraints, Roles (as assoc. ends), Roles (as inherited classes), [Roles (as entity types)](https://link.springer.com/chapter/10.1007/978-3-540-30464-7_7), and [Materialization](http://www.vldb.org/conf/1994/P630.PDF). Association reified as a Class,
+**Tags**: Classes, Generalization, Aggregation.
 
  
 
@@ -287,7 +285,7 @@ constraints
 <img src="images/JC3.png"  width="40%">
 </p>
 
-**Tags**: Enumerations, Classes, Attributes, Operations, Generalization, Association, Aggregation, Composition, Association Class, Multiple inheritance, Abstract classes, OCL constraints, Roles (as assoc. ends), Roles (as inherited classes), [Roles (as entity types)](https://link.springer.com/chapter/10.1007/978-3-540-30464-7_7), and [Materialization](http://www.vldb.org/conf/1994/P630.PDF). Association reified as a Class,
+**Tags**: Classes, Attributes, Generalization, Aggregation.
 
  
 ## Git
@@ -295,7 +293,7 @@ constraints
 <img src="images/JC4.png"  width="50%">
 </p>
 
-**Tags**: Enumerations, Classes, Attributes, Operations, Generalization, Association, Aggregation, Composition, Association Class, Multiple inheritance, Abstract classes, OCL constraints, Roles (as assoc. ends), Roles (as inherited classes), [Roles (as entity types)](https://link.springer.com/chapter/10.1007/978-3-540-30464-7_7), and [Materialization](http://www.vldb.org/conf/1994/P630.PDF). Association reified as a Class,
+**Tags**: Classes, Attributes, Generalization, Aggregation.
 
  
 ## Robot1
@@ -303,7 +301,7 @@ constraints
 <img src="images/JC5.png"  width="30%">
 </p>
 
-**Tags**: Enumerations, Classes, Attributes, Operations, Generalization, Association, Aggregation, Composition, Association Class, Multiple inheritance, Abstract classes, OCL constraints, Roles (as assoc. ends), Roles (as inherited classes), [Roles (as entity types)](https://link.springer.com/chapter/10.1007/978-3-540-30464-7_7), and [Materialization](http://www.vldb.org/conf/1994/P630.PDF). Association reified as a Class,
+**Tags**: Enumerations, Classes, Attributes, Association Class.
 
  
 ## robot2
@@ -311,7 +309,7 @@ constraints
 <img src="images/JC6.png"  width="60%">
 </p>
 
-**Tags**: Enumerations, Classes, Attributes, Operations, Generalization, Association, Aggregation, Composition, Association Class, Multiple inheritance, Abstract classes, OCL constraints, Roles (as assoc. ends), Roles (as inherited classes), [Roles (as entity types)](https://link.springer.com/chapter/10.1007/978-3-540-30464-7_7), and [Materialization](http://www.vldb.org/conf/1994/P630.PDF). Association reified as a Class,
+**Tags**: Enumerations, Classes, Attributes, Generalization, Association class.
 
  
 ## Robot3
@@ -319,7 +317,7 @@ constraints
 <img src="images/JC7.png"  width="70%">
 </p>
 
-**Tags**: Enumerations, Classes, Attributes, Operations, Generalization, Association, Aggregation, Composition, Association Class, Multiple inheritance, Abstract classes, OCL constraints, Roles (as assoc. ends), Roles (as inherited classes), [Roles (as entity types)](https://link.springer.com/chapter/10.1007/978-3-540-30464-7_7), and [Materialization](http://www.vldb.org/conf/1994/P630.PDF). Association reified as a Class,
+**Tags**: Enumerations, Classes, Attributes, Generalization, Aggregation, Association class. 
 
  
 ## Online Cart
@@ -327,7 +325,7 @@ constraints
 <img src="images/JC8.png"  width="60%">
 </p>
 
-**Tags**: Enumerations, Classes, Attributes, Operations, Generalization, Association, Aggregation, Composition, Association Class, Multiple inheritance, Abstract classes, OCL constraints, Roles (as assoc. ends), Roles (as inherited classes), [Roles (as entity types)](https://link.springer.com/chapter/10.1007/978-3-540-30464-7_7), and [Materialization](http://www.vldb.org/conf/1994/P630.PDF). Association reified as a Class,
+**Tags**: Classes, Attributes, Aggregation, Composition, Association reified as a Class.
 
  
 ## Purchase Orders2
@@ -335,7 +333,7 @@ constraints
 <img src="images/JC9.png"  width="100%">
 </p>
 
-**Tags**: Enumerations, Classes, Attributes, Operations, Generalization, Association, Aggregation, Composition, Association Class, Multiple inheritance, Abstract classes, OCL constraints, Roles (as assoc. ends), Roles (as inherited classes), [Roles (as entity types)](https://link.springer.com/chapter/10.1007/978-3-540-30464-7_7), and [Materialization](http://www.vldb.org/conf/1994/P630.PDF). Association reified as a Class,
+**Tags**: Classes, Attributes, Generalization, Aggregation, Composition, Association reified as a Class. 
 
  
 ## Aircraft
@@ -343,7 +341,7 @@ constraints
 <img src="images/JC10.png"  width="50%">
 </p>
 
-**Tags**: Enumerations, Classes, Attributes, Operations, Generalization, Association, Aggregation, Composition, Association Class, Multiple inheritance, Abstract classes, OCL constraints, Roles (as assoc. ends), Roles (as inherited classes), [Roles (as entity types)](https://link.springer.com/chapter/10.1007/978-3-540-30464-7_7), and [Materialization](http://www.vldb.org/conf/1994/P630.PDF). Association reified as a Class,
+**Tags**: Classes, Generalization, Association, Composition.
 
  
 
@@ -353,7 +351,7 @@ constraints
 <img src="images/JT1.png"  width="15%">
 </p>
 
-**Tags**: Enumerations, Classes, Attributes, Operations, Generalization, Association, Aggregation, Composition, Association Class, Multiple inheritance, Abstract classes, OCL constraints, Roles (as assoc. ends), Roles (as inherited classes), [Roles (as entity types)](https://link.springer.com/chapter/10.1007/978-3-540-30464-7_7), and [Materialization](http://www.vldb.org/conf/1994/P630.PDF). Association reified as a Class,
+**Tags**: Classes, Attributes, Association.
 
  
 
@@ -362,7 +360,7 @@ constraints
 <img src="images/JT2.png"  width="30%">
 </p>
 
-**Tags**: Enumerations, Classes, Attributes, Operations, Generalization, Association, Aggregation, Composition, Association Class, Multiple inheritance, Abstract classes, OCL constraints, Roles (as assoc. ends), Roles (as inherited classes), [Roles (as entity types)](https://link.springer.com/chapter/10.1007/978-3-540-30464-7_7), and [Materialization](http://www.vldb.org/conf/1994/P630.PDF). Association reified as a Class,
+**Tags**: Classes, Attributes, Association, Aggregation.
 
  
 
@@ -371,7 +369,7 @@ constraints
 <img src="images/JT3.png"  width="30%">
 </p>
 
-**Tags**: Enumerations, Classes, Attributes, Operations, Generalization, Association, Aggregation, Composition, Association Class, Multiple inheritance, Abstract classes, OCL constraints, Roles (as assoc. ends), Roles (as inherited classes), [Roles (as entity types)](https://link.springer.com/chapter/10.1007/978-3-540-30464-7_7), and [Materialization](http://www.vldb.org/conf/1994/P630.PDF). Association reified as a Class,
+**Tags**: Classes, Attributes, Association, Composition.
 
  
 ## VideoStore4
@@ -379,7 +377,7 @@ constraints
 <img src="images/JT4.png"  width="30%">
 </p>
 
-**Tags**: Enumerations, Classes, Attributes, Operations, Generalization, Association, Aggregation, Composition, Association Class, Multiple inheritance, Abstract classes, OCL constraints, Roles (as assoc. ends), Roles (as inherited classes), [Roles (as entity types)](https://link.springer.com/chapter/10.1007/978-3-540-30464-7_7), and [Materialization](http://www.vldb.org/conf/1994/P630.PDF). Association reified as a Class,
+**Tags**: Classes, Attributes, Operations, Association, Composition.
 
  
 ## Theather1
@@ -387,7 +385,7 @@ constraints
 <img src="images/JT5.png"  width="30%">
 </p>
 
-**Tags**: Enumerations, Classes, Attributes, Operations, Generalization, Association, Aggregation, Composition, Association Class, Multiple inheritance, Abstract classes, OCL constraints, Roles (as assoc. ends), Roles (as inherited classes), [Roles (as entity types)](https://link.springer.com/chapter/10.1007/978-3-540-30464-7_7), and [Materialization](http://www.vldb.org/conf/1994/P630.PDF). Association reified as a Class,
+**Tags**: Classes, Attributes, Generalization, Association.
 
  
 ## Theather2
@@ -395,7 +393,7 @@ constraints
 <img src="images/JT6.png"  width="40%">
 </p>
 
-**Tags**: Enumerations, Classes, Attributes, Operations, Generalization, Association, Aggregation, Composition, Association Class, Multiple inheritance, Abstract classes, OCL constraints, Roles (as assoc. ends), Roles (as inherited classes), [Roles (as entity types)](https://link.springer.com/chapter/10.1007/978-3-540-30464-7_7), and [Materialization](http://www.vldb.org/conf/1994/P630.PDF). Association reified as a Class,
+**Tags**: Enumerations, Classes, Attributes, Generalization, Association.
 
  
 ## Theather3
@@ -403,7 +401,7 @@ constraints
 <img src="images/JT7.png"  width="40%">
 </p>
 
-**Tags**: Enumerations, Classes, Attributes, Operations, Generalization, Association, Aggregation, Composition, Association Class, Multiple inheritance, Abstract classes, OCL constraints, Roles (as assoc. ends), Roles (as inherited classes), [Roles (as entity types)](https://link.springer.com/chapter/10.1007/978-3-540-30464-7_7), and [Materialization](http://www.vldb.org/conf/1994/P630.PDF). Association reified as a Class,
+**Tags**: Enumerations, Classes, Attributes, Generalization, Association, Aggregation, Association Class.
 
  
 ## Theather4
@@ -411,7 +409,7 @@ constraints
 <img src="images/JT8.png"  width="60%">
 </p>
 
-**Tags**: Enumerations, Classes, Attributes, Operations, Generalization, Association, Aggregation, Composition, Association Class, Multiple inheritance, Abstract classes, OCL constraints, Roles (as assoc. ends), Roles (as inherited classes), [Roles (as entity types)](https://link.springer.com/chapter/10.1007/978-3-540-30464-7_7), and [Materialization](http://www.vldb.org/conf/1994/P630.PDF). Association reified as a Class,
+**Tags**: Enumerations, Classes, Attributes, Generalization, Association, Aggregation, Association Class, Roles (as inherited classes).
 
  
 ## Airport1
@@ -419,7 +417,7 @@ constraints
 <img src="images/JT9.png"  width="15%">
 </p>
 
-**Tags**: Enumerations, Classes, Attributes, Operations, Generalization, Association, Aggregation, Composition, Association Class, Multiple inheritance, Abstract classes, OCL constraints, Roles (as assoc. ends), Roles (as inherited classes), [Roles (as entity types)](https://link.springer.com/chapter/10.1007/978-3-540-30464-7_7), and [Materialization](http://www.vldb.org/conf/1994/P630.PDF). Association reified as a Class,
+**Tags**: Classes, Attributes, Association.
 
  
 ## Airport2
@@ -427,6 +425,6 @@ constraints
 <img src="images/JT10.png"  width="40%">
 </p>
 
-**Tags**: Enumerations, Classes, Attributes, Operations, Generalization, Association, Aggregation, Composition, Association Class, Multiple inheritance, Abstract classes, OCL constraints, Roles (as assoc. ends), Roles (as inherited classes), [Roles (as entity types)](https://link.springer.com/chapter/10.1007/978-3-540-30464-7_7), and [Materialization](http://www.vldb.org/conf/1994/P630.PDF). Association reified as a Class,
+**Tags**: Classes, Attributes, Operations, Association.
 
  
