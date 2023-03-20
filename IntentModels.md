@@ -6,6 +6,25 @@ corresponding UML model using one or more prompts.
 
 The models are given by an image, and at most with some constraints written in OCL. We did not want to provide the USE or PlatUML specification so that ChatGPT does not learn from them. In this way, we can use them for testing future versions of ChatGPT.
 
+All models are labeled with a series of tags indicating the modeling concepts and mechanisms covered by the model: 
+
+* Enumerations 
+* Classes        
+* Attributes        
+* Operations 
+* Generalization    
+* Association       
+* Aggregation    
+* Composition 
+* Assoc. Class   
+* Multiple inheritance 
+* Abstract classes   
+* OCL constraints  
+* Roles (as assoc. ends)
+* Roles (as inherited classes) 
+* [Roles (as entity types)](https://link.springer.com/chapter/10.1007/978-3-540-30464-7_7)
+* [Materialization](http://www.vldb.org/conf/1994/P630.PDF) 
+
 ## Amphibious
 
 <!--- ![amphibious](images/Amphibious-CD.png "Amphibious") -->
@@ -30,6 +49,8 @@ context AmphibiousVehicle  inv AmphibiousEnvironment:
     self.environment = #water or self.environment = #land
 end
 ```
+
+tags: Enumerations, Classes, Attributes, Operations, Generalization, Association, Aggregation, Composition, Association Class, Multiple inheritance, Abstract classes, OCL constraints, Roles (as assoc. ends), Roles (as inherited classes), Roles (as entity types), Materialization [15] 
 
 
 ## Football Matches
