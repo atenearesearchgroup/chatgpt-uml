@@ -15,6 +15,7 @@ The contents of this repository as organized as follows:
 * Intent models
 * Larger examples
 * Logbooks
+* Images (of all models)
 
 ---
 
