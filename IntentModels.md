@@ -231,7 +231,7 @@ constraints
 ## SimpleFolder
 
 <p align="center">
-<img src="images/JC1.png"  width="20%">
+<img src="images/JC1.png"  width="15%">
 </p>
 
  
@@ -245,7 +245,7 @@ constraints
 
 ## FileSystem2
 <p align="center">
-<img src="images/JC3.png"  width="30%">
+<img src="images/JC3.png"  width="40%">
 </p>
 
  
@@ -287,7 +287,7 @@ constraints
  
 ## Aircraft
 <p align="center">
-<img src="images/JC10.png"  width="40%">
+<img src="images/JC10.png"  width="50%">
 </p>
 
  
@@ -295,7 +295,7 @@ constraints
 ## VideoStore1
 
 <p align="center">
-<img src="images/JT1.png"  width="20%">
+<img src="images/JT1.png"  width="15%">
 </p>
 
  
@@ -333,7 +333,7 @@ constraints
  
 ## Theather3
 <p align="center">
-<img src="images/JT7.png"  width="50%">
+<img src="images/JT7.png"  width="40%">
 </p>
 
  
@@ -345,7 +345,7 @@ constraints
  
 ## Airport1
 <p align="center">
-<img src="images/JT9.png"  width="30%">
+<img src="images/JT9.png"  width="20%">
 </p>
 
  
