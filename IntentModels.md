@@ -116,7 +116,7 @@ context Customer inv DifferentYears:
 ## Snarks
 
 <p align="center">
-<img src="images/Snark-CD.png" width="50%">
+<img src="images/Snark-CD.png" width="40%">
 </p>
 
 ## Car
@@ -223,7 +223,7 @@ constraints
  
 ## Employees
 <p align="center">
-<img src="images/LB10.png"  width="60%">
+<img src="images/LB10.png"  width="40%">
 </p>
 
  
@@ -231,45 +231,45 @@ constraints
 ## SimpleFolder
 
 <p align="center">
-<img src="images/JC1.png"  width="20%">
+<img src="images/JC1.png"  width="10%">
 </p>
 
  
 
 ## FileSystem1
 <p align="center">
-<img src="images/JC2.png"  width="40%">
+<img src="images/JC2.png"  width="30%">
 </p>
 
  
 
 ## FileSystem2
 <p align="center">
-<img src="images/JC3.png"  width="50%">
+<img src="images/JC3.png"  width="30%">
 </p>
 
  
 ## Git
 <p align="center">
-<img src="images/JC4.png"  width="60%">
+<img src="images/JC4.png"  width="50%">
 </p>
 
  
 ## Robot1
 <p align="center">
-<img src="images/JC5.png"  width="35%">
+<img src="images/JC5.png"  width="25%">
 </p>
 
  
 ## robot2
 <p align="center">
-<img src="images/JC6.png"  width="70%">
+<img src="images/JC6.png"  width="60%">
 </p>
 
  
 ## Robot3
 <p align="center">
-<img src="images/JC7.png"  width="80%">
+<img src="images/JC7.png"  width="70%">
 </p>
 
  
@@ -287,7 +287,7 @@ constraints
  
 ## Aircraft
 <p align="center">
-<img src="images/JC10.png"  width="60%">
+<img src="images/JC10.png"  width="40%">
 </p>
 
  
@@ -302,38 +302,38 @@ constraints
 
 ## VideoStore2
 <p align="center">
-<img src="images/JT2.png"  width="40%">
+<img src="images/JT2.png"  width="30%">
 </p>
 
  
 
 ## VideoStore3
 <p align="center">
-<img src="images/JT3.png"  width="40%">
+<img src="images/JT3.png"  width="30%">
 </p>
 
  
 ## VideoStore4
 <p align="center">
-<img src="images/JT4.png"  width="40%">
+<img src="images/JT4.png"  width="30%">
 </p>
 
  
 ## Theather1
 <p align="center">
-<img src="images/JT5.png"  width="40%">
+<img src="images/JT5.png"  width="30%">
 </p>
 
  
 ## Theather2
 <p align="center">
-<img src="images/JT6.png"  width="60%">
+<img src="images/JT6.png"  width="40%">
 </p>
 
  
 ## Theather3
 <p align="center">
-<img src="images/JT7.png"  width="60%">
+<img src="images/JT7.png"  width="50%">
 </p>
 
  
@@ -345,13 +345,13 @@ constraints
  
 ## Airport1
 <p align="center">
-<img src="images/JT9.png"  width="20%">
+<img src="images/JT9.png"  width="10%">
 </p>
 
  
 ## Airport2
 <p align="center">
-<img src="images/JT10.png"  width="50%">
+<img src="images/JT10.png"  width="30%">
 </p>
 
  
