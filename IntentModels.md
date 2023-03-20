@@ -345,13 +345,13 @@ constraints
  
 ## Airport1
 <p align="center">
-<img src="images/JT9.png"  width="20%">
+<img src="images/JT9.png"  width="15%">
 </p>
 
  
 ## Airport2
 <p align="center">
-<img src="images/JT10.png"  width="30%">
+<img src="images/JT10.png"  width="40%">
 </p>
 
  
