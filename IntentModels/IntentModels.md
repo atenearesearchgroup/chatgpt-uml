@@ -130,7 +130,7 @@ context Match inv GoalsOK: self.localGoals>=0 and self.visitorGoals>=0
 ## Loans - Association Class
 
 <p align="center">
-<img src="../images/Loan-AC-CD.png"  width="60%">
+<img src="../images/Loans-AC-CD.png"  width="60%">
 </p>
 
 
@@ -165,7 +165,7 @@ context Customer inv DifferentYears:
 ## Loans - Class
 
 <p align="center">
-<img src="../images/Loan-CD.png"  width="60%">
+<img src="../images/Loans-CD.png"  width="60%">
 </p>
 
 
@@ -301,7 +301,7 @@ end
 ## Snarks
 
 <p align="center">
-<img src="../images/Snarks-CD.png width="60%">
+<img src="../images/Snark-CD.png width="60%">
 </p>
 
 ```
@@ -350,10 +350,10 @@ end
 ```
 
 
-## Cars
+## Car
 
 <p align="center">
-<img src="../images/Amphibious-CD.png"  width="60%">
+<img src="../images/Car-CD.png"  width="60%">
 </p>
 
 
@@ -413,7 +413,7 @@ constraints
 ## PurchaseOrders
 
 <p align="center">
-<img src="../images/Amphibious-CD.png"  width="60%">
+<img src="../images/PO-CD.png"  width="60%">
 </p>
 
 ```
@@ -466,7 +466,7 @@ context Unit inv InStockOrWithCustomer:
 ## Banks
 
 <p align="center">
-<img src="../images/Amphibious-CD.png"  width="60%">
+<img src="../images/Banks-CD.png"  width="60%">
 </p>
 
 
@@ -515,3 +515,329 @@ self.manager->notEmpty() implies
     	   self.client.branch->excludes(self.manager.branch)
 ```
 
+## LB1
+
+<p align="center">
+<img src="../images/LB1.png"  width="60%">
+</p>
+
+```
+@startuml
+abstract class Furniture {
+  String model
+  Real price
+}
+class Table {
+  Model model
+}
+class Chair {
+}
+enum Model {
+  ROUND
+  SQUARE
+} 
+Furniture <|-- Table
+Furniture <|-- Chair
+@enduml
+
+```
+
+## LB2
+<p align="center">
+<img src="../images/LB2.png"  width="60%">
+</p>
+
+```
+@startuml
+@enduml
+
+```
+
+## LB3
+<p align="center">
+<img src="../images/LB3.png"  width="60%">
+</p>
+
+```
+@startuml
+@enduml
+
+```
+## LB4
+<p align="center">
+<img src="../images/LB4.png"  width="60%">
+</p>
+
+```
+@startuml
+@enduml
+
+```
+## LB5
+<p align="center">
+<img src="../images/LB5.png"  width="60%">
+</p>
+
+```
+@startuml
+@enduml
+
+```
+## LB6
+<p align="center">
+<img src="../images/LB6.png"  width="60%">
+</p>
+
+```
+@startuml
+@enduml
+
+```
+## LB7
+<p align="center">
+<img src="../images/LB7.png"  width="60%">
+</p>
+
+```
+@startuml
+@enduml
+
+```
+## LB8
+<p align="center">
+<img src="../images/LB8.png"  width="60%">
+</p>
+
+```
+@startuml
+@enduml
+
+```
+## LB9
+<p align="center">
+<img src="../images/LB9.png"  width="60%">
+</p>
+
+```
+@startuml
+@enduml
+
+```
+## LB10
+<p align="center">
+<img src="../images/LB10.png"  width="60%">
+</p>
+
+```
+@startuml
+@enduml
+
+```
+
+## JC1
+
+<p align="center">
+<img src="../images/JC1.png"  width="60%">
+</p>
+
+```
+@startuml
+@enduml
+
+```
+
+## JC2
+<p align="center">
+<img src="../images/JC2.png"  width="60%">
+</p>
+
+```
+@startuml
+@enduml
+
+```
+
+## JC3
+<p align="center">
+<img src="../images/JC3.png"  width="60%">
+</p>
+
+```
+@startuml
+@enduml
+
+```
+## JC4
+<p align="center">
+<img src="../images/JC4.png"  width="60%">
+</p>
+
+```
+@startuml
+@enduml
+
+```
+## JC5
+<p align="center">
+<img src="../images/JC5.png"  width="60%">
+</p>
+
+```
+@startuml
+@enduml
+
+```
+## JC6
+<p align="center">
+<img src="../images/JC6.png"  width="60%">
+</p>
+
+```
+@startuml
+@enduml
+
+```
+## JC7
+<p align="center">
+<img src="../images/JC7.png"  width="60%">
+</p>
+
+```
+@startuml
+@enduml
+
+```
+## JC8
+<p align="center">
+<img src="../images/JC8.png"  width="60%">
+</p>
+
+```
+@startuml
+@enduml
+
+```
+## JC9
+<p align="center">
+<img src="../images/JC9.png"  width="60%">
+</p>
+
+```
+@startuml
+@enduml
+
+```
+## JC10
+<p align="center">
+<img src="../images/JC10.png"  width="60%">
+</p>
+
+```
+@startuml
+@enduml
+
+```
+
+## JT1
+
+<p align="center">
+<img src="../images/JT1.png"  width="60%">
+</p>
+
+```
+@startuml
+@enduml
+
+```
+
+## JT2
+<p align="center">
+<img src="../images/JT2.png"  width="60%">
+</p>
+
+```
+@startuml
+@enduml
+
+```
+
+## JT3
+<p align="center">
+<img src="../images/JT3.png"  width="60%">
+</p>
+
+```
+@startuml
+@enduml
+
+```
+## JT4
+<p align="center">
+<img src="../images/JT4.png"  width="60%">
+</p>
+
+```
+@startuml
+@enduml
+
+```
+## JT5
+<p align="center">
+<img src="../images/JT5.png"  width="60%">
+</p>
+
+```
+@startuml
+@enduml
+
+```
+## JT6
+<p align="center">
+<img src="../images/JT6.png"  width="60%">
+</p>
+
+```
+@startuml
+@enduml
+
+```
+## JT7
+<p align="center">
+<img src="../images/JT7.png"  width="60%">
+</p>
+
+```
+@startuml
+@enduml
+
+```
+## JT8
+<p align="center">
+<img src="../images/JT8.png"  width="60%">
+</p>
+
+```
+@startuml
+@enduml
+
+```
+## JT9
+<p align="center">
+<img src="../images/JT9.png"  width="60%">
+</p>
+
+```
+@startuml
+@enduml
+
+```
+## JT10
+<p align="center">
+<img src="../images/JT10.png"  width="60%">
+</p>
+
+```
+@startuml
+@enduml
+
+```
