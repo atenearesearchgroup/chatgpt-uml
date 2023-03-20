@@ -12,7 +12,7 @@ The models
 
 ![amphibious](../images/Amphibious-CD.png "Amphibious")
 
-
+<img src="../images/Amphibious-CD.png"  width="60%">
 
 ```
 model Amphibious
