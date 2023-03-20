@@ -12,10 +12,10 @@ This repository contains all artifacts (such as intent models, prompts, resultin
 
 The contents of this repository as organized as follows:
 
-* Intent models
+* [Intent models](https://github.com/atenearesearchgroup/chatgpt-uml/blob/main/IntentModels.md)
 * Larger examples
 * Logbooks
-* Images (of all models)
+* [Images](https://github.com/atenearesearchgroup/chatgpt-uml/tree/main/images) (of all models)
 
 ---
 
