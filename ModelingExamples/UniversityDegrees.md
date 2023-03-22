@@ -24,7 +24,7 @@ We want to model the educational system of universities offering different under
 
 1. Develop a conceptual model of the structure of such a system in UML, with the corresponding elements, the relationships between them, and all required integrity constraints. 
 2.	Model the behavior of the system, defining the necessary operations to model the following actions, including their pre- and post-conditions: 
-    1. A student enrolls one year in one subject of a degree. 
-    2. A lecturer grades a student enrolled in one of the subjects he teaches. 
-    3. A student applies for a diploma.
+    * A student enrolls one year in one subject of a degree. 
+    * A lecturer grades a student enrolled in one of the subjects he teaches. 
+    * A student applies for a diploma.
  
