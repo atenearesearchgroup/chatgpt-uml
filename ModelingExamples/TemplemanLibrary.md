@@ -2,9 +2,9 @@
 
 ## Context
 
-The University of Kent Library has the following rules to regulate the processes of borrowing items from the library to dispose of them for a few days.
+The University of Kent Library has the following rules to regulate the processes of borrowing items from the library.
 
-* Only faculty members and undergraduate and graduate students may borrow items.
+* Only faculty members (i.e., professors) and undergraduate and graduate students may borrow items.
 * Items that can be borrowed are books and journals.
 * The Chief Librarian may temporarily suspend the loan of any item, or cancel them when they are no longer in loanable condition.
 * Loans must be requested from one of the librarians. 
@@ -13,8 +13,8 @@ The University of Kent Library has the following rules to regulate the processes
     * Graduate students may borrow up to 8 items (books or journals) simultaneously. They may have the journals for 3 days and the books for two weeks. 
     * Professors may borrow up to 16 items (books or journals) simultaneously. They may have the journals for 2 weeks and the books for 8 weeks. 
 * Borrowed items must be returned before their deadlines. Users who fail to return an item on time will be charged a daily fine according to the established rates. 
-* Borrowers must return items to librarians, along with the corresponding fine in case of late return of the loan.
-* A librarian can withdraw borrowing rights from any user if the user does not pay the fine in full at the time of returning the loan.
+* Borrowers must return items to librarians on duty, along with the corresponding fine in case of late return of the loan.
+* Any librarian on duty can withdraw borrowing rights from any user if the user does not pay the fine in full at the time of returning the loan.
 
 ## Questions
 
