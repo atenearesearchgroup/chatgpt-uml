@@ -20,13 +20,13 @@ Suppose the financial system of a country is composed of banks.
 
 ## Questions
 
-1. Develop the conceptual model of the structure of such a system in UML, including the appropriate constraints. 
+1. Develop the conceptual model of the structure of such a system in UML, including the appropriate OCL constraints that describe the system invariants. 
 
-2. Specify the behavior of the operations described above. Include the appropriate pre- and post-conditions, and the body of operations if using a UML tool that supports an action language.
+2. Specify the behavior of the operations described above. Include the appropriate pre- and post-conditions, and the body of operations if using a UML tool that supports an action language (such as SOIL).
 
 3. Specify a system with 2 banks, each with two branches, and each branch with 3 accounts, one of which must be a credit account. There must be at least two customers with multiple accounts at different banks, and one VIP customer. 
 
-4. If using an action language, make transfers between the accounts over 3 annuities, so as to cover all possible cases of collection and waiver of maintenance and transfer fees, and check that all operations work correctly.
+4. If using an action language, make transfers between the accounts over 3 years, so as to cover all possible cases of collection and waiver of maintenance and transfer fees, and check that all operations work correctly.
 
  
 
