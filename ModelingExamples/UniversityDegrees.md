@@ -20,11 +20,11 @@ We want to model the educational system of universities offering different under
 *	A person can obtain as many diplomas as degrees a university offers if he or she completes the corresponding courses. 
 *	Finally, to be able to enroll in a subject that is taught only at the postgraduate level, the student must hold an undergraduate diploma (from that university or from another one).
 
-# Questions
+## Questions
 
 1. Develop a conceptual model of the structure of such a system in UML, with the corresponding elements, the relationships between them, and all required integrity constraints. 
 2.	Model the behavior of the system, defining the necessary operations to model the following actions, including their pre- and post-conditions: 
-    1. a student enrolls one year in a subject of a degree. 
-    2.  a lecturer grades a student enrolled in one of the subjects he teaches. 
-    3. a student applies for a diploma when he/she meets the required conditions.
+    1. A student enrolls one year in one subject of a degree. 
+    2. A lecturer grades a student enrolled in one of the subjects he teaches. 
+    3. A student applies for a diploma.
  
