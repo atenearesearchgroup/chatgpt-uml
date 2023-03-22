@@ -21,18 +21,11 @@ We want to model a system that represents chains of movie theaters in a given co
 
 ## Questions
 
+    1. Develop the conceptual model of the structure of such a system in UML, including the appropriate constraints that ensure the consistency of the information handled by the system. Examples of such constraints include that screenings of movies in the same theater room cannot overlap (i.e., the end of one must be after the beginning of the next), in addition to those described above.
 
-    1. A student enrolls one year in one subject of a degree. 
-    2. A lecturer grades a student enrolled in one of the subjects he teaches. 
-    3. A student applies for a diploma.
- 
+    2.	Model the behavior of the system, defining the necessary operations to buy and return tickets. Include the appropriate pre- and postconditions in the specified operations, as well as the body of the operations.
 
-
-1. Develop the conceptual model of the structure of such a system in UML, including the appropriate constraints that ensure the consistency of the information handled by the system. Examples of such constraints include that screenings of movies in the same theater room cannot overlap (i.e., the end of one must be after the beginning of the next), in addition to those described above.
-
-2.	Model the behavior of the system, defining the necessary operations to buy and return tickets. Include the appropriate pre- and postconditions in the specified operations, as well as the body of the operations.
-
-3. Specify a system with a chain (Yelmo) with two cinemas (Vialia and Rincon), each with two rooms, showing three different movies per day, during two days (D1 and D2). The movies can be: Joker, Batman, Superman, Aquaman and Dr.Strange. Each room has 20 seats. Model a system with 3 customers, one of whom has a loyalty card with the Yelmo chain and the others do not, and who buy and return several tickets at least 2 times. Assume that the duration of all movies is the same (120 minutes) and that the directors are, respectively, Todd Phillips, Christopher Nolan, Richard Donner, James Wan and Scott Derrickson. Show the sequence diagram of the invocations. Include at least one situation where you try to buy more tickets than the room allows and justify the way you propose to handle that situation.
+    3. Specify a system with a chain (Yelmo) with two cinemas (Vialia and Rincon), each with two rooms, showing three different movies per day, during two days (D1 and D2). The movies can be: Joker, Batman, Superman, Aquaman and Dr.Strange. Each room has 20 seats. Model a system with 3 customers, one of whom has a loyalty card with the Yelmo chain and the others do not, and who buy and return several tickets at least 2 times. Assume that the duration of all movies is the same (120 minutes) and that the directors are, respectively, Todd Phillips, Christopher Nolan, Richard Donner, James Wan and Scott Derrickson. Show the sequence diagram of the invocations. Include at least one situation where you try to buy more tickets than the room allows and justify the way you propose to handle that situation.
 
  
 
