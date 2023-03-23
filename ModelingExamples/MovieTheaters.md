@@ -21,7 +21,7 @@ We want to model a system that represents chains of movie theaters in a given co
 
 ## Questions
 
-1. Develop the conceptual model of the structure of such a system in UML, including the appropriate constraints that ensure the consistency of the information handled by the system. Examples of such constraints include that screenings of movies in the same theater room cannot overlap (i.e., the end of one must be after the beginning of the next), in addition to those described above.
+1. 1. Develop a UML class diagram with the structure of such a system, with all the elements mentioned above, the relationships between them, and all required integrity constraints. Examples of such constraints include that screenings of movies in the same theater room cannot overlap (i.e., the end of one must be after the beginning of the next), in addition to those described above.
 
 2.	Model the behavior of the system, defining the necessary operations to buy and return tickets. Include the appropriate pre- and postconditions in the specified operations, as well as the body of the operations.
 
