@@ -13,7 +13,7 @@ We want to model a system with theaters that represent plays.
 
 ## Questions
 
-1. Develop an UML model of the structure of such a system, including the appropriate constraints that ensure the consistency of the data handled by the system.
+1. Develop an UML class diagram with the structure of such a system, including the appropriate constraints that ensure the consistency of the data handled by the system.
 
 2. Specify in OCL the following query operations in the class representing a theater:
 
