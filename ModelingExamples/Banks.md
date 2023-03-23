@@ -20,7 +20,7 @@ Suppose the financial system of a country is composed of banks.
 
 ## Questions
 
-1. Develop the conceptual model of the structure of such a system in UML, including the appropriate OCL constraints that describe the system invariants. 
+1. Develop a UML class diagram with the structure of such a system, with all the elements mentioned above, the relationships between them, and all required integrity constraints. 
 
 2. Specify the behavior of the operations described above. Include the appropriate pre- and post-conditions, and the body of operations if using a UML tool that supports an action language (such as SOIL).
 
