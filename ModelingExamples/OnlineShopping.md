@@ -6,7 +6,7 @@ The company nozamA sells different products to its customers. To purchase a prod
 
 ## Questions
 
-1. Develop a UML model with the structure of the system described above, with the corresponding elements and their relationships, incorporating also the following integrity constraints:
+1. 1. Develop a UML class diagram with the structure of such a system, with all the elements mentioned above, the relationships between them, incorporating also the following integrity constraints:
 
   * All units should have a serial number, which must be unique.
   * All units of a product must have the same price, which coincides with the price established for the product.
