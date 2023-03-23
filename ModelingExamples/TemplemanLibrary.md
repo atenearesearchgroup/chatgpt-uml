@@ -20,7 +20,7 @@ The University of Kent Library has the following rules to regulate the processes
 
 Please develop in UML the following diagrams
 
-1. A class diagram of the library with the elements described above and the relationships between them.
+1. A class diagram of the library with the elements described above and the relationships between them. Include all OCL constraints that represent the integrity constraints of the system.
 
 2. A state diagram of class "Item", which represents a library item.
 
