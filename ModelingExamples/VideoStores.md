@@ -16,7 +16,7 @@ We want to model a system composed of video stores, which are companies that hav
 
 ## Questions
 
-1. Develop a conceptual model of the structure of such a system in UML, with the corresponding elements, the relationships between them, and all required integrity constraints. 
+1. Develop a UML class diagram with the structure of such a system, with all the elements mentioned above, the relationships between them, and all required integrity constraints.
 
 2. Specify in OCL the following query operations on the class that models the video stores:
 
