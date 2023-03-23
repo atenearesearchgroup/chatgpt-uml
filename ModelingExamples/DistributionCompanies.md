@@ -26,7 +26,7 @@ The behavior of the system is determined by a set of actions that allow:
 
 ## Questions
 
-1. Develop a UML model with the structure of the system described above, with the corresponding elements, their relationships, and  integrity constraints.
+1. Develop a UML class diagram with the structure of such a system, with all the elements mentioned above, the relationships between them, and all required integrity constraints.
 
 2. Create an object model describing a system with at least two companies, three customers (at least one of which works for a company), plus all those objects that are necessary to ensure the system constraints.
 
