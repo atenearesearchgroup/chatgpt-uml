@@ -25,7 +25,7 @@ You are asked to develop in UML, using the USE tool:
 b) Specify all the constraints and conditions expressed in the text on the elements of the model. 
 c) 
 
-1. Develop a class diagram of the structure of such a system in UML, with all the elements mentioned above, the relationships between them, and all required integrity constraints. 
+1. Develop a UML class diagram with the structure of such a system, with all the elements mentioned above, the relationships between them, and all required integrity constraints.
 
 2. Specify in OCL the following query operations:
 
