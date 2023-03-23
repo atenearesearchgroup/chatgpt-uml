@@ -25,7 +25,7 @@ The behavior of the system allows books to be bought and borrowed.
 
 ## Questions
 
-1. Develop a UML model with the structure of the system described above, with the corresponding elements and their relationships, incorporating also the following integrity constraints:
+1. 1. Develop a UML class diagram with the structure of such a system, with all the elements mentioned above, the relationships between them, and all required integrity constraints, including the following:
 
     * The values of all numeric data types must be correct (including, among others, that years and page numbers must be positive).  
     * No edition of a book may be earlier than its original edition.
