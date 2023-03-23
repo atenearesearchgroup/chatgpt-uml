@@ -22,7 +22,7 @@ We want to model the educational system of universities offering different under
 
 ## Questions
 
-1. Develop a conceptual model of the structure of such a system in UML, with the corresponding elements, the relationships between them, and all required integrity constraints. 
+1. Develop a UML class diagram with the structure of such a system, with all the elements mentioned above, the relationships between them, and all required integrity constraints. 
 2.	Model the behavior of the system, defining the necessary operations to model the following actions, including their pre- and post-conditions: 
     * A student enrolls one year in one subject of a degree. 
     * A lecturer grades a student enrolled in one of the subjects he teaches. 
